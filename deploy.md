@@ -24,3 +24,19 @@ cp -r _book _book_cache
 
 
 
+```
+git pull
+
+
+
+  佛挡杀佛
+```
+
+```
+gitbook build
+rm -rf _book_cache
+cp -r _book _book_cache
+```
+
+![](/images/logo.png)
+
