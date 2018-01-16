@@ -1,5 +1,2 @@
-# Summary
-
-* [Introduction](README.md)
-* [来来来](lai-lai-lai.md)
-
+- [关于](README.md)
+- [部署](deploy.md)
